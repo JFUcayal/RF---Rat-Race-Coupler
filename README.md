@@ -3,9 +3,9 @@
 This repository presents the full development process of a **Rat-Race hybrid coupler** designed to operate at a **2.4 GHz** center frequency. The project focuses on applications in RF systems such as modulators, mixers, and wireless communication circuits.
 
 <p align="center">
-  <img src="img/RF-RAT-RACE-COUPLER-kicad.png" alt="" width="45%" />
+  <img src="img/RF-RAT-RACE-COUPLER-kicad.png" alt="" width="35%" />
   &nbsp;&nbsp;
-  <img src="img/RF-PCB_img.png" alt="" width="45%" />
+  <img src="img/RF-PCB_img.png" alt="" width="30%" />
 </p>
 
 ## 🧠 Project Objective
