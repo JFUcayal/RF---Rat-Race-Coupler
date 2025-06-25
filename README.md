@@ -1,4 +1,4 @@
-# 📡 Rat-Race Coupler Design @ 2.4 GHz - RF Project
+# 📡 Rat-Race Coupler Design @ 2.4 GHz
 
 This repository presents the full development process of a **Rat-Race hybrid coupler** designed to operate at a **2.4 GHz** center frequency. The project focuses on applications in RF systems such as modulators, mixers, and wireless communication circuits.
 
